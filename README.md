@@ -1,3 +1,3 @@
-# Attendance-system-using-Face-Recognition
-# by Vaxobov Avazbek
-# "DTTL" subject excerses
+# ATTENDANCE PROJECT USING FACE RECOGNITION
+# by Vaxobov Avazbek, Qulmatov Qurbonali, Turdiyev Firdavs, Yunusov Mardon
+# "DTTL" subject exercise
